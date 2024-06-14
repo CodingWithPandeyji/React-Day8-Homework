@@ -27,7 +27,7 @@ function App() {
         <div 
           id='bar'
           style={{width: `${progress}%`}}
-          className='bg-blue-200 h-full rounded-full'
+          className='bg-green-200 h-full rounded-full'
         >
         </div>
       </div>
